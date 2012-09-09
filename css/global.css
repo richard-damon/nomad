@@ -1,0 +1,21 @@
+/* This file will hold the main styles for your website. */
+
+
+.section-header ul li.leaf 
+{
+list-style: none outside none;
+list-style-type: none;
+list-style-image: none;
+}
+
+.section-header ul li,
+.section-header ul li a
+{
+float: left;
+}
+
+.section-content #breadcrumb
+{
+display: none;
+}
+
